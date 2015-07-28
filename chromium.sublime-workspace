@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/K/work/src/chrome/common/chrome_content_client.cc",
+		"/K/work/src/build/common.gypi",
+		"/K/work/src/chrome/common/chrome_content_client - 副本.cc",
+		"/K/work/src/content/ppapi_plugin/ppapi_thread.cc",
+		"/K/work/src/chrome/common/chrome_switches.cc",
+		"/K/work/src/components/crash/tools/crash_service.cc",
+		"/K/work/src/components/crash/app/breakpad_win.cc",
+		"/F/work/chromium/git-new/src/chrome/common/chrome_content_client.cc",
+		"/K/work/src/chrome/common/chrome_constants.cc",
+		"/K/work/src/chrome/common/chrome_paths.cc",
+		"/F/work/chromium/git-new/src/out/Debug/gen/flapper_version.h",
+		"/K/work/src/chrome/browser/resources/chromeos/about_os_credits.html",
+		"/K/work/src/third_party/adobe/flash/flapper_version.h",
+		"/K/work/src/build/common - 副本.gypi",
+		"/K/work/src/content/public/common/content_switches.h",
+		"/K/work/src/content/browser/plugin_service_impl.cc",
+		"/K/work/src/content/common/pepper_plugin_list.cc",
+		"/K/work/src/chrome/common/pepper_flash.cc",
+		"/K/work/src/chrome/browser/chrome_content_browser_client.cc",
+		"/F/work/chromium/git-new/src/components/breakpad/tools/crash_service.cc",
+		"/F/work/chromium/git-new1/src/components/breakpad/tools/crash_service.cc",
+		"/K/work/src/chrome/browser/first_run/upgrade_util_win.cc",
+		"/K/work/src/content/public/common/content_switches.cc",
+		"/K/work/src/content/test/ppapi/ppapi_test.cc",
+		"/K/work/src/out/Release/PepperFlash/manifest.json",
+		"/K/work/src/chrome/browser/google/google_update_win.cc",
+		"/K/work/src/cloud_print/virtual_driver/win/install/setup.cc",
+		"/K/work/src/base/base_paths.h",
+		"/K/work/src/android_webview/browser/aw_browser_main_parts.cc",
+		"/C/Users/Administrator/AppData/Local/Chromium/Application/43.0.2357.134/PepperFlash/manifest.json",
+		"/K/work/src/chrome/tools/crash_service/caps/main_win.cc",
+		"/K/work/src/media/audio/audio_low_latency_input_output_unittest.cc",
+		"/K/work/src/chrome_elf/blacklist/test/blacklist_test.cc",
+		"/F/work/chromium/git-new/chromium.json",
+		"/E/code/libadblockplusie/third_party/v8_gyp_launcher"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"K:\\work\\src",
+			"F:\\work\\chromium\\git-new",
+			"K:\\work\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"GetBundledPepperFlash",
+			"branding",
+			"GetBundledPepperFlash",
+			"AddPepperFlashFromCommandLine",
+			"GetBundledPepperFlash",
+			"FLAPPER_VERSION_STRING",
+			"14.0.0.145",
+			"18.0.0.209",
+			"14.0.0.145",
+			"kPepperFlashPluginFilename",
+			"GetInternalPluginsDirectory",
+			"DIR_PEPPER_FLASH_PLUGIN:",
+			"FILE_PEPPER_FLASH_PLUGIN:",
+			"GetBundledPepperFlash",
+			"GetDefaultPepperFlash",
+			"RegisterPepperPlugins",
+			"ComputePepperPluginList",
+			"OnLoadPlugin",
+			"AddPepperPlugins",
+			"GetDefaultPepperFlash",
+			"CreatePepperFlashInfo",
+			"kPepperFlashManifestName",
+			"CheckPepperFlashManifest",
+			"kPepperFlashDLLName",
+			"version_str",
+			"GetMetroRelauncherPath",
+			"DCHEC",
+			"base::DIR_EXE",
+			"DIR_EXE",
+			"FilePath::AppendSwitchPath",
+			"DIR_EXE",
+			"DIR_MODULE",
+			"Installer",
+			"DIR_PEPPER_FLASH_SYSTEM_PLUGIN",
+			"kPepperFlashDLLBaseName",
+			"GetSystemPepperFlash",
+			"GetBundledPepperFlash",
+			"CreatePepperFlashInfo",
+			"AddPepperFlashFromCommandLine",
+			"GetSystemPepperFlash(",
+			"kPpapiFlashPath",
+			"ppapi-flash-path",
+			"//",
+			"SetDefaultBrowser",
+			"LaunchAdvancedAssociationUI",
+			"LaunchApplicationAssociationDialog",
+			"SetAsDefaultBrowser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}
